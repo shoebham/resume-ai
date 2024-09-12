@@ -1,0 +1,64 @@
+Shubham Gupta
+email: me@shubhwym.me | LinkedIn: https://linkedin.in/in/shoebham | GitHub: https://github.com/shoebham/ | Website: https://shubhwym.me/
+Summary:
+Experienced Software Developer with a strong background in Java, web technologies, and AI/ML. Skilled in developing scalable solutions, implementing CI/CD pipelines, and creating innovative projects in various domains including NLP and sign language translation.
+
+Experience:
+Nomura
+Software Developer | Mumbai, Maharashtra | January 2023 - Present
+Working as a Software Developer in Nomura. 
+Primary focus on migrating the existing Perl code to Java and building new features.
+Created a CI/CD pipeline for the migration project, which included setting up Jenkins, Docker, and Ansible.
+Worked on Snowflake and StreamSets for disaster recovery pipeline.
+Worked on Grafana for real-time system health monitoring.
+Played with Generative AI.
+
+Bobble Ai
+SWE Intern (Android) | Gurugram, Haryana | January 2022 - June 2022
+Worked on Bobble Keyboard app.
+Created a generic module for content recommendation, improving sticker display capabilities.
+Worked with various teams to implement features in their products.
+Worked with various libraries and tools to implement features.
+Many features went live in the production app which is used by around a million users.
+
+
+Education:
+Sardar Patel Institute of Technology
+Masters of Computer Application | Mumbai, Maharashtra | Dec 2020 - Dec 2022
+CGPA: 9.2
+
+Skills:
+
+Languages: Java, Kotlin, C++, Python, HTML/CSS, JavaScript, SQL, PL/SQL, PHP, Go
+Frameworks: Angular, Ionic, Flask, React, Laravel, SvelteKit
+Developer Tools: Git, Linux, Bash, Firebase, RPA, Docker, Vim, Jenkins, Ansible, Grafana
+Relevant skills: ML/AI, Data structures and Algorithms, Web, App, Backend, Gen AI Development
+
+Projects:
+Resume Chat
+Python, LLM, AI, FastApi, SvelteKit, Pinecone, OpenAI | Sept 2024
+Created a chat interface to chat with resume by feeding resume as embeddings to Pinecone and then using OpenAI's GPT-4o-mini model to generate responses.
+
+basic Retrieval-Augmented Generation
+Python, LLM, AI, FastApi, SvelteKit | June 2024
+
+Implemented RAG without langchain using llama3 8B model inside Ollama.
+Created a chat interface for PDF-based Q&A and general conversation with llama3 model.
+
+Sign Language Translation
+NLP, Python, Flask, Javascript | GitHub: Text to ISL | July 2021
+
+Converts English text to Indian Sign Language through animation.
+Implemented NLP using stanza for text conversion and reordering.
+
+Fact Check Search Engine
+Java, Android, Volley, JSON, JSOUP, Glide | GitHub: Fact Check Search | 2020
+
+Developed an Android app for searching fact-checked articles/claims.
+
+T&C summarizer
+Python, OpenAI | Sept 2024
+Created a chrome extension to summarize the terms and conditions of websites and apps to help users understand them better.
+
+Various other projects:
+Created many other projects in my free time, which can be viewed at https://shubhwym.me/#projects

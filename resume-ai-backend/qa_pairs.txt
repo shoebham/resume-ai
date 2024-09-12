@@ -1,0 +1,68 @@
+Q: What is Shubham Gupta's current job position and company?
+A: Shubham Gupta is currently working as a Software Developer at Nomura since January 2023.
+
+Q: What are Shubham's primary responsibilities at Nomura?
+A: At Nomura, Shubham focuses on migrating existing Perl code to Java and building new features. He also created a CI/CD pipeline for the migration project.
+
+Q: What tools and technologies does Shubham work with at Nomura?
+A: Shubham works with Java, Jenkins, Docker, Ansible, Snowflake, StreamSets, and Grafana at Nomura.
+
+Q: What experience does Shubham have with AI technologies?
+A: Shubham has worked with Generative AI at Nomura and has experience in ML/AI development.
+
+Q: Where did Shubham work as an intern, and what did he achieve there?
+A: Shubham worked as an SWE Intern (Android) at Bobble Ai from January to June 2022. He created a generic module for content recommendation and improved sticker display capabilities.
+
+Q: What is Shubham's educational background?
+A: Shubham completed his Masters of Computer Application from Sardar Patel Institute of Technology in Mumbai, Maharashtra, from December 2020 to December 2022, with a CGPA of 9.2.
+
+Q: What programming languages is Shubham proficient in?
+A: Shubham's main forte is Java but he also dangles with Python and Javascript for his side projects. He also knows HTML/CSS, SQL, PL/SQL, PHP, and Go. Overall Langauge doesn't matter to him, he just wants to code.
+
+Q: What frameworks does Shubham have experience with?
+A: Shubham has experience with Angular, Ionic, Flask, React, Laravel, and SvelteKit.
+
+Q: What developer tools is Shubham familiar with?
+A: Shubham is familiar with Git, Linux, Bash, Firebase, RPA, Docker, Vim, Jenkins, Ansible, Grafana, and Podman.
+
+Q: Can you describe one of Shubham's notable projects?
+A: Shubhams most notable project is text to sign language translation. He created a system that converts English text to Indian Sign Language through animation, using NLP and stanza for text conversion and reordering. It has received a lot of recognition on Github.
+
+Q: How did Shubham create this resume chat application?
+A: Shubham created this project using Pinecone for vector embeddings, OpenAI for chat models, and Svelte for the frontend.
+
+Q: What are some of Shubham's relevant skills?
+A: Shubham's relevant skills include ML/AI, Data Structures and Algorithms, Web Development, App Development, Backend Development, and Generative AI Development.
+
+Q: Has Shubham worked on any projects involving mobile app development?
+A: Yes, during his internship at Bobble Ai, Shubham worked on the Bobble Keyboard app, implementing features like Paging 3, MotionLayout, and WebView for product pages.
+
+Q: What experience does Shubham have with cloud technologies?
+A: While not explicitly mentioned, Shubham's experience with Docker, Jenkins, and Ansible suggests familiarity with cloud-related technologies and DevOps practices.
+
+Q: Has Shubham contributed to any open-source projects?
+A: The resume doesn't explicitly mention open-source contributions, but Shubham is a big believer in open source and fixes bugs in open source libraries whenever he encounters them.
+
+Q: What kind of work environment does Shubham have experience in?
+A: Shubham has experience working in both corporate environments (Nomura) and startup settings (Bobble Ai), suggesting adaptability to different work cultures.
+
+Q: Does Shubham have any experience with database management?
+A: Yes, Shubham is proficient in SQL and PL/SQL, and has worked with Snowflake at Nomura, indicating experience with database management.
+
+Q: What soft skills can we infer from Shubham's experience?
+A: Based on his experience, we can infer that Shubham likely has strong problem-solving skills, adaptability (working with various technologies), and the ability to work in team environments.
+
+Q: What are some of Shubham's key strengths?
+A: Shubham's key strengths include his ability to learn quickly, adapt to new technologies, and work well in a team environment. He is also known to be a quick learner and is always looking to improve his skills.
+
+Q: How does Shubham stay updated with the latest technologies and programming trends?
+A: Shubham stays updated with the latest technologies and programming trends by surfing Hacker News, watching tutorials, and experimenting with new technologies.
+
+Q: What are Shubham's career goals?
+A: Shubham's career goal is to become a well rounded developer and a good human.
+
+Q: How does Shubham stay motivated in a fast-paced work environment?
+A: Shubham stays motivated by challenging himself with new problems and learning new technologies. He also enjoys working in a fast-paced environment where he can constantly learn and grow.
+
+Q: What are Shubham's interests outside of work?
+A: Shubham doesn't have many hobbies, but he likes to explore new places, read books, and play some sports, apart from that starting some side projects and never finishing them.
