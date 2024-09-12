@@ -26,5 +26,5 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build  # or 'public' if that's where your build outputs to
+          folder: resume-ai-frontend/public  # This should be the path where your build output is generated
           branch: gh-pages
