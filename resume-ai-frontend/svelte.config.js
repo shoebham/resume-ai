@@ -2,10 +2,14 @@ import adapter from "@sveltejs/adapter-static";
 
 const dev = process.env.NODE_ENV === "development";
 
-export default {
+/** @type {import('@sveltejs/kit').Config} */
+const config = {
   kit: {
+    adapter: adapter(),
     paths: {
-      base: process.env.NODE_ENV === "production" ? "/resume-ai" : "",
+      base: dev ? "" : "/resume-ai",
     },
   },
 };
+
+export default config;
